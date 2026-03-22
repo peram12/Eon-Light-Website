@@ -20,8 +20,7 @@ const translations: Record<Language, Record<string, string>> = {
     nav_contact: "Contact",
     hero_tagline: "We don't just build code;",
     hero_tagline_highlight: "we build living digital experiences.",
-    hero_description: "At Eon Light, we transform ideas into intelligent, breathing digital solutions that evolve with your business
-      Do you dream of owning your own website? Just contact us and we'll make your ideas a reality.",
+    hero_description: "At Eon Light, we transform ideas into intelligent, breathing digital solutions that evolve with your business. Do you dream of owning your own website? Just contact us and we'll make your ideas a reality.",
     cta_button: "Build Your Future with Us",
     cta_contact: "Contact Eon Light",
     meet_elo: "Meet Elo",
@@ -48,8 +47,7 @@ const translations: Record<Language, Record<string, string>> = {
     nav_contact: "اتصل بنا",
     hero_tagline: "نحن لا نبني مجرد أكواد؛",
     hero_tagline_highlight: "بل نبني تجارب رقمية حيّة.",
-    hero_description: "في إيون لايت، نحوّل الأفكار إلى حلول رقمية ذكية ومتطورة تنمو مع أعمالك
-      هل تتمنى ان تمتلك موقعك الخاص؟ فقط تواصل معنا ونحن سنجعل افكارك حقيقة",
+    hero_description: "في إيون لايت، نحوّل الأفكار إلى حلول رقمية ذكية ومتطورة تنمو مع أعمالك. هل تتمنى ان تمتلك موقعك الخاص؟ فقط تواصل معنا ونحن سنجعل افكارك حقيقة",
     cta_button: "ابنِ مستقبلك معنا",
     cta_contact: "تواصل مع إيون لايت",
     meet_elo: "قابل إيلو",
@@ -76,8 +74,7 @@ const translations: Record<Language, Record<string, string>> = {
     nav_contact: "צור קשר",
     hero_tagline: "אנחנו לא רק בונים קודים;",
     hero_tagline_highlight: "אנחנו בונים חוויות דיגיטליות חיות.",
-    hero_description: "ב-Eon Light, אנו הופכים רעיונות לפתרונות דיגיטליים חכמים ונושמים שמתפתחים עם העסק שלךתהאם 
-      אתם חולמים על אתר משלכם? פשוט צרו איתנו קשר ואנחנו נהפוך את הרעיונות שלכם למציאות.",
+    hero_description: "ב-Eon Light, אנו הופכים רעיונות לפתרונות דיגיטליים חכמים ונושמים שמתפתחים עם העסק שלךת. האם אתם חולמים על אתר משלכם? פשוט צרו איתנו קשר ואנחנו נהפוך את הרעיונות שלכם למציאות.",
     cta_button: "בנה את העתיד שלך איתנו",
     cta_contact: "צור קשר עם Eon Light",
     meet_elo: "הכירו את אלו",
