@@ -55,10 +55,10 @@ export function Navbar() {
               <Image
                 src={logoUrl}
                 alt="Eon Light - For a Brighter Future"
-                width={160}
-                height={160}
+                width={250}
+                height={250}
                 className="object-contain"
-                style={{ height: "48px", width: "auto" }}
+                style={{ height: "70px", width: "auto" }}
                 priority
                 unoptimized
               />
