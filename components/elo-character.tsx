@@ -109,7 +109,7 @@ export function EloCharacter() {
         whileTap={{ scale: 0.98 }}
       >
         {/* Elo images with fade transition */}
-        <div className="relative h-60 w-60 sm:h-80 sm:w-80 md:h-96 md:w-96 lg:h-[32rem] lg:w-[32rem] xl:h-[40rem] xl:w-[40rem]">
+        <div className="relative mx-auto" style={{ height: "60vh", width: "auto", aspectRatio: "1/1", display: "flex", alignItems: "center", justifyContent: "center" }}>
           <AnimatePresence mode="wait">
             <motion.div
               key={isAlternate ? "alternate" : "primary"}
